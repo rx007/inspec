@@ -13,9 +13,9 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw]
 
 # Middleman Gems
 gem 'middleman-sprockets', '>= 4.0.0'
-gem 'middleman-compass', '>= 4.0.0'
-gem 'middleman', '>= 4.0.0'
+gem 'middleman-compass', '>= 4.0.1'
+gem 'middleman', '>= 4.4.0'
 gem 'middleman-livereload'
 gem 'middleman-autoprefixer'
 gem 'middleman-syntax'
-gem 'redcarpet'
+gem 'redcarpet', '>= 3.5.1'
